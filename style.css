@@ -1,0 +1,47 @@
+h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: yellowgreen;
+}
+.aboutFollow{
+    color: violet;
+    text-align: center;
+    word-spacing: 50px;
+    font-family:cursive
+}
+a{
+    text-decoration: none;
+
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: yellowgreen;
+font-size: 30px;
+}
+li{
+    /* padding-left: 450px; */
+    list-style-position: inside;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: space-between;
+
+}
+img{
+    color: black;
+    border: 5px solid;
+    border-radius: 30px;
+    background-color: white;
+}
+
+
